@@ -1,18 +1,18 @@
 {
-  "name": "vscode-html-languageservice",
-  "version": "3.1.0",
+  "name": "vscode-nornj-languageservice",
+  "version": "0.1.0",
   "description": "Language service for HTML",
   "main": "./lib/umd/htmlLanguageService.js",
   "typings": "./lib/umd/htmlLanguageService",
   "module": "./lib/esm/htmlLanguageService.js",
-  "author": "Microsoft Corporation",
+  "author": "Joe_Sky <hitomi_doax@sina.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-html-languageservice"
+    "url": "https://github.com/Microsoft/vscode-nornj-languageservice"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Microsoft/vscode-html-languageservice"
+    "url": "https://github.com/Microsoft/vscode-nornj-languageservice"
   },
   "devDependencies": {
     "@types/mocha": "^7.0.2",
